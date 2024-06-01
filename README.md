@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks and Data structure**
 
-- 👨‍💻 All of my projects are available at [(https://sahil-n06.github.io/new-portfolio/)](https://sahil-n06.github.io/sahil/)
+- 👨‍💻 All of my projects are available at {https://sahil-n06.github.io/new-portfolio/}
 
 - 📫 How to reach me **mdsahil622004@gmail.com**
 
