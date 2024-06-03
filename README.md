@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java and Problem Solving**
 
-- 📫 How to reach me **nikitasinghak257@gmail.com**
+- 📫 How to reach me **mdsahil622004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
