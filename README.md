@@ -1,4 +1,4 @@
-![MasterHead](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)
+![MasterHead](https://media0.giphy.com/labs/images/api.gif)
 
 <h1 align="center">Hi 👋, I'm Sahil Nawaz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
