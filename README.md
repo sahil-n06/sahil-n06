@@ -1,4 +1,4 @@
-![MasterHead](https://media0.giphy.com/labs/images/api.gif)
+![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)
 
 <h1 align="center">Hi 👋, I'm Sahil Nawaz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
