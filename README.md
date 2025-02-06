@@ -12,7 +12,7 @@
 - 💬 Ask me about **Java and Problem Solving**
 
 - 📫 How to reach me **mdsahil622004@gmail.com**
-- 📄 [Check out my Resume](sahil_resume (1).pdf)
+- 📄 [Check out my Resume](https://github.com/sahil-n06/sahil-n06/blob/main/sahil_resume%20(1).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
