@@ -1,95 +1,92 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)
+# Sahil Nawaz &nbsp;·&nbsp; Software Engineer
 
-<h1 align="center">Hi, I'm Sahil Nawaz</h1>
-<h3 align="center">Frontend Developer • Java • Problem Solving</h3>
-
-<img align="right" alt="Coding" width="380" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif" />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sahil-n06&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-n06" />
-</p>
-
-### About me
-- 🌱 Currently learning **React Native, Kotlin**
-- 👨‍💻 Portfolio: **https://sahil-n06.github.io/new-portfolio/**
-- 💬 Ask me about **Java, DSA, Frontend**
-- 📫 Reach me at **mdsahil622004@gmail.com**
-- 📄 CV: **sahil_resume.pdf**
+[![Portfolio](https://img.shields.io/badge/Portfolio-sahilnawaz.vercel.app-0F4C81?style=flat-square&logo=vercel&logoColor=white)](https://sahilnawaz.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahil--nawaz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-nawaz)
+[![Email](https://img.shields.io/badge/Email-mdsahil622004@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mdsahil622004@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sahil060204-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/sahil060204/)
+[![Open VSX](https://img.shields.io/badge/Open%20VSX-nudge--dev-purple?style=flat-square&logo=vscodium&logoColor=white)](https://open-vsx.org/extension/nudge-dev/nudge-dev)
 
 ---
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sahil-nawaz/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/25357786/sahil-nawaz" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/sahil_n06" target="_blank" rel="noreferrer">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/mdsahil622004" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/mdsahil622004" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/sahil060204" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerearth.com/@mdsahil622004" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/mdsahilhanz" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
-  <a href="https://www.topcoder.com/members/sahil_n06" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder" height="30" width="40" />
-  </a>
-</p>
+Full-stack software engineer based in **Delhi, India**. I build production-grade web apps, AI-powered systems, and developer tooling — and take ownership end-to-end from database design to deployment.
+
+Currently: **Software Developer Intern @ Nikah Forever** · B.Tech CSE 2026 · Open to global opportunities.
 
 ---
 
-<h3 align="left">Languages & Tools</h3>
+## What I'm building
 
-<p align="left">
-  <!-- Row 1 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="42" height="42"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="42" height="42"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="42" height="42"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="42" height="42"/></a>
-</p>
-
-<p align="left">
-  <!-- Row 2 -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42"/></a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="42" height="42"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/></a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="42" height="42"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/></a>
-</p>
-
-<p align="left">
-  <!-- Row 3 -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/></a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="42" height="42"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42"/></a>
-</p>
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **NEXUS** | Privacy-first local LLM desktop app. Hardware-aware pre-warm pipeline cuts first-token latency by ~2.5s | Electron · React · TypeScript · node-llama-cpp · MCP | [GitHub](https://github.com/sahil-n06/NEXUS) |
+| **Nudge Dev** | VS Code extension — 6-persona AI Debate Council + Guard Loop for every coding task. **500+ downloads** | TypeScript · DeepSeek R1 · Groq · Gemini | [Open VSX](https://open-vsx.org/extension/nudge-dev/nudge-dev) |
+| **Nudge Junior** | Lightweight companion to Nudge Dev. **100+ downloads** | TypeScript · VS Code API | [Open VSX](https://open-vsx.org/extension/nudge-dev/nudge-junior) |
+| **HireML.ai** | End-to-end AI hiring platform — resume screening → voice interview → anti-cheat (GPT-4o Vision) | Next.js · PostgreSQL · GPT-4o · ElevenLabs · Sarvam AI | [Live](https://career.nikahforever.com) |
+| **Feedback Intelligence Engine** | 5-stage AI pipeline turning call recordings + reviews into ranked product pain points. 300% efficiency gain | React · Node.js · PostgreSQL · OpenAI | Internal |
+| **FlutterEngine.com** | Advanced Flutter docs & community platform | React · TypeScript · Tailwind | [Live](https://www.flutterengine.com) |
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
+## Tech stack
+
+**Languages**
+`JavaScript` `TypeScript` `Python` `Java` `C` `HTML/CSS`
+
+**Frontend**
+`React.js` `Next.js` `Tailwind CSS` `GSAP` `Electron.js`
+
+**Backend & Databases**
+`Node.js` `Express.js` `PostgreSQL` `MongoDB` `MySQL` `Supabase` `SQLite` `Prisma`
+
+**AI & APIs**
+`OpenAI API` `Azure OpenAI` `ElevenLabs` `Sarvam AI` `REST APIs` `WebSockets`
+
+**Tools & Concepts**
+`Git` `JWT` `RBAC` `MCP Protocol` `LLM Integration` `Prompt Engineering` `n8n` `CI/CD`
+
+---
+
+## Experience
+
+**Software Developer Intern — Nikah Forever** *(Dec 2025 – Present)*
+Built CRM from scratch (200+ live enquiries on launch day), AI feedback intelligence platform (300% efficiency gain), and analytics across GoSalam.com.
+
+**Web Developer Intern — Tussle Digital** *(Jun – Nov 2025)*
+AI Chat API with dual memory layers (Azure OpenAI), Kanban/Gantt/Workload modules with WebSockets, ClickUp dashboard for 30+ daily tickets.
+
+**Freelance Shopify Developer** *(Nov 2024 – Jan 2025)*
++35% SEO · −28% load time · +40% organic traffic in one month.
+
+---
+
+## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahil-n06&show_icons=true&locale=en&theme=tokyonight" alt="sahil-n06 stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sahil-n06&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-n06&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-n06&theme=tokyonight" alt="sahil-n06 streak" />
+  <img src="https://streak-stats.demolab.com?user=sahil-n06&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
+
+---
+
+## Achievements
+
+- 🏆 **Bug Bounty Winner** — MSIT
+- ⚡ **Flipkart Grid 5.0** — Level 1 Qualifier
+- 🥇 **Top 5 Finalist** — MSIT Hackathon
+- 🇮🇳 **SIH 2023 & 2024** — Internal Hackathon Qualifier
+- 📦 **600+ total downloads** across Nudge Dev & Nudge Junior on Open VSX
+
+---
+
+## Open to
+
+I'm actively looking for **Full-Stack / Software Engineer** roles — remote or in-person, India or globally.
+
+If you want to **contribute to NEXUS**, open an issue or PR. Genuinely welcome collaborators.
+
+📧 **mdsahil622004@gmail.com** · 🌐 **[sahilnawaz.vercel.app](https://sahilnawaz.vercel.app)**
