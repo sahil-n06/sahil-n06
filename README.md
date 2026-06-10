@@ -10,7 +10,7 @@
 
 Full-stack software engineer based in **Delhi, India**. I build production-grade web apps, AI-powered systems, and developer tooling — and take ownership end-to-end from database design to deployment.
 
-Currently: **Software Developer 1 @ Nikah Forever** · B.Tech CSE 2026 · Open to global opportunities.
+Currently: **SDE - 1 @ Nikah Forever** · B.Tech CSE 2026 · Open to global opportunities.
 
 ---
 
