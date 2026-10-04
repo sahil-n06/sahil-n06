@@ -76,10 +76,8 @@ AI Chat API with dual memory layers (Azure OpenAI), Kanban/Gantt/Workload module
 ## Achievements
 
 - 🏆 **Bug Bounty Winner** — MSIT
-- ⚡ **Flipkart Grid 5.0** — Level 1 Qualifier
 - 🥇 **Top 5 Finalist** — MSIT Hackathon
-- 🇮🇳 **SIH 2023 & 2024** — Internal Hackathon Qualifier
-- 📦 **600+ total downloads** across Nudge Dev & Nudge Junior on Open VSX
+- 📦 **3k+ total downloads** across Nudge Dev & Nudge Junior on Open VSX
 
 ---
 
